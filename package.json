@@ -2,7 +2,7 @@
   "name": "spam fire",
   "version": "1.0.0",
   "description": "spam fire",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
